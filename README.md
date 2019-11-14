@@ -1,2 +1,3 @@
-# Spectrum_Analyzer
-This project was created in December 2018 on Matlab for Digital Signal Processing Course
+# Spectrum Analyzer
+##### This project was created in December 2018 on Matlab AppDesigner for the Digital Signal Processing Course.
+Spectrum analyzers are fundamental in digital signal processing (DSP). This spectrum analyzer processes signals and convolves them together. It also has the option to perform FFT on any audio file and view the resulting frequency domain graph. There is an option to compare the same signal at different DFT points, different window types and window lengths. There are built-in functions available to perform FFT on.
